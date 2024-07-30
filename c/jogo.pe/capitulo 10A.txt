@@ -1,0 +1,12 @@
+
+Capitulo 10A: Aliados Inesperados - Combate Direto
+
+    Voce decide enfrentar o chefe de seguranca de frente. A batalha e intensa, com ataques rapidos e precisos. Voce usa todas as suas habilidades de combate e hacking para superar os sistemas defensivos e os ataques do chefe de seguranca. Cada movimento seu e calculado, e cada ataque e uma tentativa de desarmar seu adversario.
+
+    Depois de uma luta ardua, voce consegue vencer. Exausto e ferido, mas vitorioso, voce encontra itens valiosos deixados pelo chefe de seguranca. Esses itens incluem dispositivos de hacking avancados e informacoes criticas que podem ser usadas em sua missao.
+
+Decisao:
+
+Planejar o ataque final: Com os novos recursos em maos, voce decide que e hora de planejar o ataque final contra a corporacao. (Digite 1)
+
+Reunir mais informacoes: Sentindo que ainda precisa de mais dados para garantir o sucesso, voce opta por continuar a coleta de informacoes antes de fazer o ataque final. (Digite 2)

@@ -1,0 +1,10 @@
+
+Capitulo 4A: Aliados e Inimigos - Luta
+
+    Voce decide lutar, pega uma arma improvisada e enfrenta os segurancas ciberneticos. A batalha e intensa, com tiros e faiscas voando por toda parte. Voce consegue derrotar os inimigos. No meio da confusao, voce encontra itens uteis que podem ajudar em sua jornada.
+
+Decisao:
+
+Procurar refugio: Com os itens em maos, voce decide procurar um lugar seguro para se recuperar. (Digite 1)
+
+Ir ao encontro de um contato secreto: Decidindo seguir em frente, voce resolve encontrar um contato secreto que pode fornecer mais informacoes. (Digite 2)

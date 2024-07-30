@@ -1,0 +1,10 @@
+
+Capitulo 6B: Encontro com o Primeiro Boss - Sabotagem
+
+    Voce decide sabotar o servidor e se infiltra nas instalacoes da corporacao sob a cobertura da noite. Utilizando suas habilidades de hacker, voce comeca a desativar os sistemas de seguranca. No entanto, uma IA defensiva avancada detecta sua presenca e ativa as defesas da corporacao. A IA projeta uma forma holografica ameacadora, pronta para proteger os interesses da corporacao a qualquer custo.
+
+Decisao:
+
+Confrontar diretamente: Voce decide enfrentar a IA defensiva de frente, usando todas as suas habilidades para desativa-la. (Digite 1)
+
+Usar tatica furtiva: Optando por uma abordagem mais sutil, voce decide usar suas habilidades furtivas para desativar a IA sem ser detectado. (Digite 2)

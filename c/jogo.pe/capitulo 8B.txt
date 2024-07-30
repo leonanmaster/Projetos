@@ -1,0 +1,12 @@
+
+Capitulo 8B: A Fuga pela Rede - Hacker
+
+    Voce decide se aliar a um grupo hacker, conhecido por suas operacoes contra as corporacoes corruptas. Com a ajuda deles, voce recebe uma missao critica: derrubar um firewall importante que protege informacoes vitais da corporacao. Trabalhando juntos, voces elaboram um plano detalhado para invadir a rede sem serem detectados.
+
+    A operacao comeca, e voce e os hackers se infiltram na rede da corporacao. Cada movimento e preciso, cada comando e executado com perfeicao. No entanto, a seguranca da corporacao e robusta, e a qualquer momento voces podem ser descobertos.
+
+Decisao:
+
+Continuar a investigacao: Decidindo que e crucial obter mais informacoes, voce opta por continuar a investigacao dentro da rede. (Digite 1)
+
+Planejar um ataque: Com os dados obtidos, voce e os hackers decidem que e hora de planejar um ataque direto para desestabilizar a corporacao. (Digite 2)

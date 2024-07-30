@@ -1,0 +1,10 @@
+
+Capitulo 3C: Primeira Batalha - Hacker
+
+    Voce aceita a ajuda do hacker, que o guia para um canto isolado do cafe. Ele comeca a explicar um plano para hackear um servidor critico da cidade. Antes que possam comecar, segurancas ciberneticos invadem o local. O hacker digita freneticamente, tentando salvar dados enquanto os segurancas avancam. Alarmes soam e tiros ecoam pelo cafe. Sua decisao agora pode determinar o sucesso da missao e sua sobrevivencia.
+
+Decisao:
+
+Lutar: Voce pega uma arma improvisada e se junta ao hacker para enfrentar os segurancas. (Digite 1)
+
+Fugir: Percebendo o risco, voce convence o hacker a fugir com voce, levando as informacoes. (Digite 2)

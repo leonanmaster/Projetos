@@ -1,0 +1,10 @@
+
+Capitulo 3B: Primeira Batalha - Sozinho
+
+    Voce decide continuar sozinho, caminhando pelas ruas desertas e sombrias. De repente, um grupo de segurancas ciberneticos surge das sombras, seus olhos brilhando com uma luz vermelha ameacadora. Eles se movem rapidamente, prontos para neutralizar qualquer ameaca. Enquanto luta ou foge, voce percebe a brutalidade e a eficiencia dos segurancas ciberneticos. Cada movimento e calculado, e cada ataque e preciso. A cidade, imersa na corrupcao, e um campo de batalha onde apenas os mais fortes sobrevivem. Suas acoes agora determinarao seu destino nesta distopia controlada pelas corporacoes sombrias.
+
+Decisao:
+
+Lutar: Voce decide enfrentar os segurancas. Com sua habilidade e coragem, voce se prepara para o combate, usando tudo o que tem para se defender. (Digite 1)
+
+Fugir: Percebendo a desvantagem numerica, voce escolhe correr pelas ruas escuras, procurando um lugar seguro para se esconder. (Digite 2)

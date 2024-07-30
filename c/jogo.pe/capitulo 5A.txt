@@ -1,0 +1,10 @@
+
+Capitulo 5A: A Primeira Conspiracao - Refugio
+
+    Voce encontra um refugio seguro, uma pequena base rebelde escondida nas sombras da cidade. La, voce trata seus ferimentos e recupera energia. Enquanto descansa, voce descobre que os rebeldes tem informacoes sobre um plano de corrupcao sendo tramado pelas corporacoes que controlam a cidade. Eles mostram documentos e relatorios secretos que revelam os detalhes sordidos da conspiracao.
+
+Decisao:
+
+Seguir o plano de corrupcao: Convencido de que se infiltrar no esquema e a melhor forma de derruba-lo, voce decide seguir o plano de corrupcao. (Digite 1)
+
+Sabotar o servidor: Decidindo que a sabotagem e a melhor estrategia, voce opta por destruir o servidor que controla a operacao corrupta. (Digite 2)

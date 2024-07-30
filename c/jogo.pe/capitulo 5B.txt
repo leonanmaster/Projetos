@@ -1,0 +1,10 @@
+
+Capitulo 5B: A Primeira Conspiracao - Contato Secreto
+
+    Voce encontra seu contato secreto, um ex-funcionario de uma das corporacoes corruptas. Em um esconderijo seguro, ele revela informacoes cruciais sobre a operacao das corporacoes. Ele mostra um mapa detalhado das instalacoes e explica que um servidor importante esta no centro de toda a rede de corrupcao. A missao e clara: derrubar esse servidor sera um grande golpe contra a corporacao.
+
+Decisao:
+
+Seguir o plano de corrupcao: Decidindo se infiltrar na operacao, voce resolve seguir o plano de corrupcao para mina-lo por dentro. (Digite 1)
+
+Sabotar o servidor: Optando por uma abordagem direta, voce escolhe sabotar o servidor para desestabilizar a operacao. (Digite 2)

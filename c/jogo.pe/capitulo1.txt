@@ -1,0 +1,9 @@
+Capitulo 1: A Despertar na Distopia
+
+    Voce acorda em um beco escuro, as luzes de neon piscando acima de voce. O som distante de sirenes e o zumbido constante dos drones de vigilancia preenchem o ar. Seu corpo doi, lembrancas fragmentadas de uma vida anterior invadem sua mente. A cidade esta imersa em uma corrupcao profunda, controlada por corporacoes sombrias e uma rede de computadores que dominam todos os aspectos da vida cotidiana.
+
+Decisao:
+
+Explorar as ruas da cidade: (Digite 1)
+
+Entrar em um cafe clandestino para buscar informacoes: (Digite 2)

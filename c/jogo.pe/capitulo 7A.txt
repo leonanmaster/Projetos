@@ -1,0 +1,12 @@
+
+Capitulo 7A: Revelacoes e Traicoes - Confronto Direto
+
+    Voce decide enfrentar diretamente o inimigo. A batalha e intensa e cheia de perigos. Voce utiliza todas as suas habilidades e recursos para superar os obstaculos. Cada movimento e crucial, e cada decisao pode ser a diferenca entre a vida e a morte. Apos uma luta ardua, voce sai vitorioso.
+
+    Com a vitoria, voce descobre segredos profundos sobre a corrupcao que domina a cidade. Documentos e arquivos revelam a extensao do controle das corporacoes e suas intencoes sombrias. Apesar das dificuldades, voce sente que esta mais perto de derrubar o regime opressor.
+
+Decisao:
+
+Investigar uma corporacao corrupta: Decidido a aprofundar sua compreensao, voce escolhe investigar mais sobre uma das corporacoes envolvidas. (Digite 1)
+
+Aliar-se com um grupo hacker: Reconhecendo a necessidade de aliados, voce decide se unir a um grupo hacker que compartilha seus objetivos. (Digite 2)

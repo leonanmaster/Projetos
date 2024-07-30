@@ -1,0 +1,12 @@
+
+Capitulo 9B: Confronto com o Segundo Boss - Ataque
+
+    Voce decide planejar um ataque direto a corporacao, utilizando as informacoes que obteve. Junto com os hackers, voce desenvolve uma estrategia para desativar um sistema defensivo avancado que protege a instalacao. No dia do ataque, voce se infiltra nas instalacoes, evitando cameras e guardas ciberneticos, ate chegar ao nucleo do sistema.
+
+    No entanto, ao iniciar o ataque, voce e confrontado por um chefe de seguranca, um especialista em ciberdefesa. Ele ativa o sistema defensivo avancado, e a batalha comeca. Com lasers e campos de forca ativados, cada movimento seu e uma luta pela sobrevivencia.
+
+Decisao:
+
+Combater diretamente: Voce decide enfrentar o chefe de seguranca de frente, usando suas habilidades de combate e hacking para neutraliza-lo. (Digite 1)
+
+Usar habilidades especiais: Preferindo uma abordagem mais estrategica, voce usa suas habilidades especiais para desativar o sistema defensivo e o chefe de seguranca de forma inteligente. (Digite 2)

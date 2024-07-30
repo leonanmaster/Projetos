@@ -1,0 +1,10 @@
+
+Capitulo 4B: Aliados e Inimigos - Fuga
+
+    Voce decide fugir. Percebendo a desvantagem, voce convence o hacker a sair correndo com voce. Juntos, voces escapam por uma porta dos fundos, correndo pelas ruas escuras da cidade. Embora consigam escapar, voce sofre ferimentos leves no processo. Durante a fuga, voce e o hacker obtêm informacoes cruciais sobre a operacao dos segurancas ciberneticos, que podem ser uteis mais tarde.
+
+Decisao:
+
+Procurar refugio: Voce decide encontrar um lugar seguro para tratar seus ferimentos e planejar os proximos passos. (Digite 1)
+
+Ir ao encontro de um contato secreto: Decidindo seguir em frente, voce resolve encontrar um contato secreto que pode fornecer mais informacoes. (Digite 2)

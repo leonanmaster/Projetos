@@ -1,0 +1,10 @@
+
+Capitulo 3A: Primeira Batalha - Rebeldes
+
+    Voce decide juntar-se aos rebeldes. Eles o conduzem por becos estreitos ate uma base secreta, onde compartilham planos para derrubar o regime corrupto. Antes de qualquer acao, a base e atacada por um drone de seguranca. O som de alarmes e disparos enche o ar, criando um caos imediato. Durante o ataque, voce ve outros rebeldes lutando bravamente, mas a forca do drone e imensa. A fumaca comeca a encher o local e voce sente o calor das explosoes proximas. A escolha de lutar ou fugir pode definir seu destino e o dos rebeldes que confiaram em voce.
+
+Decisao:
+
+Lutar: Voce pega uma arma e se junta a batalha, ajudando a defender a base contra o drone de seguranca. (Digite 1)
+
+Fugir: Percebendo a desvantagem, voce decide fugir junto com alguns rebeldes, tentando encontrar um local seguro. (Digite 2)

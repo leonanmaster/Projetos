@@ -1,0 +1,14 @@
+
+Capitulo 12A: O Chefe Final - Confronto Direto
+
+    Voce decide enfrentar o lider supremo da corporacao diretamente. Com os recursos e informacoes obtidas, voce se infiltra nas instalacoes principais, avancando com determinacao. Ao entrar no coracao da base, voce e confrontado pelo chefe final, um individuo poderoso com recursos tecnologicos avancados e uma guarda pessoal de segurancas ciberneticos.
+
+    A batalha e intensa. Cada movimento e crucial, e cada decisao pode determinar o resultado. Utilizando todas as suas habilidades de combate e hacking, voce luta contra o lider e seus guardas. O confronto e repleto de ataques rapidos e contra-ataques precisos, testando todos os seus limites.
+
+    Apesar da resistencia ferroz, voce consegue desarmar e derrotar o lider supremo, desmantelando a lideranca corrupta da corporacao. A vitoria vem com um custo, mas a determinacao e coragem te conduzem ao triunfo.
+
+Decisao:
+
+Confrontar diretamente: Com a lideranca derrubada, voce toma controle da situacao e comeca a reorganizar a cidade para um futuro melhor. (Digite 1)
+
+Hackear o sistema central: Apos derrotar o lider, voce decide hackear o sistema central para garantir que a corporacao nunca mais possa se reerguer. (Digite 2)

@@ -1,0 +1,11 @@
+Capitulo 2B: Conexoes Perigosas - Entrar no Cafe
+
+    Voce percebe um cafe clandestino e decide entrar para buscar informacoes sobre sua situacao atual. Ao entrar, o cheiro de cafe forte e o som de conversas baixas criam uma atmosfera quase reconfortante. Em um canto escuro, um hacker encapuzado digita freneticamente em um terminal, cercado por uma serie de monitores exibindo codigos em rapida sucessao.
+
+    "Voce parece perdido", diz o hacker, sem tirar os olhos da tela. "Posso ajudar, mas nao sera facil."
+
+Decisao:
+
+Aceitar a ajuda do hacker: (Digite 1)
+
+Recusar e sair do cafe: (Digite 2)

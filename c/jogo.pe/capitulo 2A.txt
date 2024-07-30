@@ -1,0 +1,11 @@
+Capitulo 2A: Conexoes Perigosas - Explorar as Ruas
+    
+    Voce decide explorar as ruas para entender melhor o ambiente em que esta. As luzes de neon lancam um brilho inquietante nas calcadas molhadas, refletindo as propagandas holograficas que inundam a cidade. A medida que voce caminha, observa figuras sombrias nos becos, vigiadas de perto por drones patrulheiros. Enquanto atravessa um cruzamento, uma mao firme agarra seu braço, puxando voce para um canto escuro.
+
+    "Venha conosco se quer sobreviver", sussurra uma voz feminina. Voce olha e ve um grupo de rebeldes, maltrapilhos mas determinados, que lutam contra o regime corrupto.
+
+Decisao:
+
+Juntar-se aos rebeldes: (Digite 1)
+
+Continuar sozinho: (Digite 2)

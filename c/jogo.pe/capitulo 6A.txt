@@ -1,0 +1,10 @@
+
+Capitulo 6A: Encontro com o Primeiro Boss - Corrupcao
+
+    Voce decide seguir o plano de corrupcao e se infiltrar na operacao. Com documentos falsificados e disfarces, voce adentra as instalacoes da corporacao. La, voce se depara com um lider corrupto que supervisiona a rede de corrupcao. Ele esta cercado por segurancas ciberneticos e sistemas de defesa avancados. A tensao e alta, e a qualquer momento, seu disfarce pode ser descoberto.
+
+Decisao:
+
+Confrontar diretamente: Decidindo que a melhor defesa e o ataque, voce opta por enfrentar o lider e seus segurancas diretamente. (Digite 1)
+
+Usar tatica furtiva: Preferindo uma abordagem mais cautelosa, voce escolhe usar taticas furtivas para sabotar o lider sem ser detectado. (Digite 2)

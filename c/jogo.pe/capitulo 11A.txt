@@ -1,0 +1,12 @@
+
+Capitulo 11A: Preparacao para o Confronto Final - Ataque Final
+
+    Com os recursos obtidos, voce decide que e hora de planejar o ataque final contra a corporacao. Reunindo todos os dados e equipamentos, voce elabora uma estrategia detalhada. Cada passo e meticulosamente planejado para maximizar suas chances de sucesso e minimizar riscos. Seus aliados hackers oferecem suporte remoto, prontos para desativar sistemas de seguranca e fornecer informacoes em tempo real.
+
+    A noite do ataque chega. Voce se infiltra nas instalacoes da corporacao, movendo-se rapidamente e com precisao. Com a ajuda dos hackers, voce desativa cameras de vigilancia e passa despercebido pelos guardas ciberneticos. Seu objetivo e chegar ao nucleo do sistema central, onde voce planeja desativar a organizacao corrupta de uma vez por todas.
+
+Decisao:
+
+Enfrentar o chefe final diretamente: Decidindo que a melhor maneira de garantir o sucesso e um confronto direto, voce se prepara para enfrentar o lider supremo da corporacao. (Digite 1)
+
+Invadir o sistema central: Optando por uma abordagem mais estrategica, voce decide invadir o sistema central para desativar a organizacao de dentro. (Digite 2)

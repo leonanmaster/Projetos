@@ -1,0 +1,12 @@
+
+Capitulo 9A: Confronto com o Segundo Boss - Investigacao
+
+    Voce continua a investigacao dentro da rede da corporacao, determinado a descobrir todos os segredos. Conforme avanca, as defesas do sistema ficam mais complexas e perigosas. De repente, voce se depara com o chefe de seguranca, um especialista em ciberdefesa determinado a impedir sua intrusao. Ele lanca um ataque devastador, e voce precisa usar toda a sua habilidade para sobreviver.
+
+    O confronto e intenso, com ataques ciberneticos e contra-ataques que desafiam sua habilidade e sorte. Cada movimento e crucial, e cada decisao pode ser a diferenca entre a vida e a morte.
+
+Decisao:
+
+Combater diretamente: Decidido a enfrentar o chefe de seguranca de frente, voce se prepara para um combate direto, usando todas as suas habilidades de hacker e combate. (Digite 1)
+
+Usar habilidades especiais: Optando por uma abordagem mais estrategica, voce decide usar suas habilidades especiais para desativar o chefe de seguranca de forma inteligente. (Digite 2)

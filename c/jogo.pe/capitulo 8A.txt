@@ -1,0 +1,12 @@
+
+Capitulo 8A: A Fuga pela Rede - Investigacao
+
+    Voce decide investigar uma corporacao corrupta. Usando os dados que obteve anteriormente, voce infiltra-se na sede da corporacao, navegando pelos seus sistemas de seguranca e hackeando seus bancos de dados. A investigacao e arriscada, e a qualquer momento voce pode ser descoberto. Durante sua incursao, voce coleta dados comprometedores que revelam os planos sinistros da corporacao.
+
+    A pressao aumenta quando os sistemas de seguranca comecam a detectar sua presenca. Voce precisa ser rapido e eficiente para escapar com as informacoes valiosas que obteve. Cada segundo conta, e um passo em falso pode significar sua captura.
+
+Decisao:
+
+Continuar a investigacao: Determinado a descobrir mais, voce decide aprofundar sua investigacao, correndo ainda mais riscos. (Digite 1)
+
+Planejar um ataque: Decidindo que e hora de agir, voce opta por usar as informacoes obtidas para planejar um ataque direto contra a corporacao. (Digite 2)

@@ -1,0 +1,14 @@
+
+Capitulo 11B: Preparacao para o Confronto Final - Reuniao de Informações
+
+    Sentindo que ainda ha mais para descobrir, voce decide continuar a coleta de informacoes antes de realizar o ataque final. Voce e seus aliados hackers intensificam a investigacao, buscando dados adicionais que possam fornecer uma vantagem decisiva.
+
+    Durante essa fase, voce descobre documentos secretos, gravacoes de reunioes e planos detalhados das operacoes corruptas da corporacao. Cada nova informacao revelada aumenta seu entendimento sobre as fraquezas e pontos criticos da organizacao. Essas descobertas fornecem nao apenas informacoes valiosas, mas tambem novos recursos tecnologicos que podem ser usados no ataque final.
+
+    Com essas novas informacoes, voce refina seu plano, ajustando estrategias para maximizar suas chances de sucesso. A confianca aumenta, e seus aliados estao prontos para dar suporte total.
+
+Decisao:
+
+Enfrentar o chefe final diretamente: Convencido de que um confronto direto e a melhor abordagem, voce se prepara para enfrentar o lider supremo da corporacao. (Digite 1)
+
+Invadir o sistema central: Preferindo uma abordagem mais estrategica, voce decide invadir o sistema central e desativar a organizacao de dentro. (Digite 2)

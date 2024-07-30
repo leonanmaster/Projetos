@@ -1,0 +1,16 @@
+ ____    ___   __  __  ____   ____      _     ____    ____      _      ____   _____  ____   _____
+/ ___|  / _ \ |  \/  || __ | |  _ \    / \   / ___|  |  _ \    / \    |  _ \ | ____||  _ \ | ____|
+\___ \ | | | || |\/| ||  _ \ | |_| |  / _ \  \___ \  | | | |  / _ \   | |_| ||  _|  | | | ||  _|
+ ___| || |_| || |  | || |_| ||  _ <  / ___ \  ___| | | |_| | / ___ \  |  _ < | |___ | |_| || |___
+|____/  \___/ |_|  |_||____/ |_| \_\/_/   \_\|____/  |____/ /_/   \_\ |_| \_\|_____||____/ |_____|
+
+
+Bem-vindo a "Sombras da Rede", um livro-jogo de RPG que transportara voce para uma distopia cibernetica, onde a tecnologia e a corrupcao se entrelacam em um cenario de opressao e luta pela liberdade. Prepare-se para uma aventura envolvente, onde suas escolhas determinarao o destino do protagonista e o futuro de uma cidade sombria.
+
+Introducao:
+Em "Sombras da Rede", voce acorda em um beco escuro, sem memoria clara de como chegou la. A cidade esta imersa em uma corrupcao profunda, controlada por corporacoes sombrias e uma rede de computadores que dominam todos os aspectos da vida cotidiana. Cabe a voce navegar por esse ambiente hostil, tomar decisoes cruciais e enfrentar desafios mortais para desvendar a verdade e trazer esperanca a populacao.
+
+Conclusao:
+"Sombras da Rede" e mais do que um livro; e uma experiencia interativa onde cada decisao molda a narrativa. Prepare-se para mergulhar em um mundo de intriga e acao, onde a linha entre heroi e vilao e tenue, e o destino da cidade esta em suas maos.
+
+Boa sorte, aventureiro. Que suas escolhas tragam luz a escuridao da rede.

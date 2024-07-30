@@ -1,0 +1,14 @@
+
+Capitulo 12B: O Chefe Final - Invasao ao Sistema
+
+    Voce decide invadir o sistema central para desativar a organizacao de dentro. Com a ajuda de seus aliados hackers, voce se infiltra nas instalacoes principais da corporacao, evitando guardas ciberneticos e sistemas de seguranca avancados. Cada passo e meticulosamente planejado, e cada movimento e executado com precisao.
+
+    Chegando ao nucleo do sistema, voce comeca a hackear a rede central da corporacao. Enquanto trabalha, uma serie de defesas avancadas e contra-ataques digitais sao lancados para impedir seu progresso. A batalha cibernetica e intensa, exigindo todas as suas habilidades e conhecimentos em hacking.
+
+    Durante a invasao, voce descobre os segredos mais profundos da corporacao e expoe suas operacoes corruptas. Cada linha de codigo quebrada e cada firewall desativado trazem voce mais perto de desmantelar a organizacao. No momento final, voce desativa o sistema central, derrubando a rede de corrupcao que controlava a cidade.
+
+Decisao:
+
+Confrontar diretamente: Apos desativar o sistema, voce decide confrontar os lideres remanescentes da corporacao para garantir que a organizacao nunca mais se reerguera. (Digite 1)
+
+Sabotar a base inimiga: Decidindo que a melhor maneira de garantir a vitoria e sabotar fisicamente a base inimiga, voce prepara uma serie de explosivos para destruir as instalacoes. (Digite 2)

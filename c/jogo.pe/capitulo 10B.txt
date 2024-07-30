@@ -1,0 +1,12 @@
+
+Capitulo 10B: Aliados Inesperados - Habilidades Especiais
+
+    Voce decide usar suas habilidades especiais para enfrentar o chefe de seguranca. Movendo-se silenciosamente e aproveitando as brechas no sistema, voce desativa uma a uma as defesas da corporacao. Utilizando tecnicas avancadas de hacking e taticas furtivas, voce consegue desarmar o chefe de seguranca sem entrar em combate direto.
+
+    A vitoria e alcancada com precisao e inteligencia. Voce recupera energia e encontra dispositivos tecnologicos avancados, alem de dados importantes que podem ser cruciais para o proximo passo da sua missao. Essas ferramentas aumentam suas chances de sucesso nos proximos desafios.
+
+Decisao:
+
+Planejar o ataque final: Com os recursos obtidos, voce decide que e hora de planejar o ataque final contra a corporacao. (Digite 1)
+
+Reunir mais informacoes: Sentindo que ainda ha mais para descobrir, voce opta por continuar a coleta de informacoes antes de realizar o ataque final. (Digite 2)
