@@ -39,7 +39,7 @@ Lista* del_elem(Lista* lista, int val){
     return lista;
 }
 
-void del_lst(Lista* lista){
+void free_lst(Lista* lista){
     Lista* p = lista;
     while (p != NULL){
         Lista* t = p->prox;
@@ -53,7 +53,6 @@ void print_lst(Lista* lista){
     while (p != NULL){
         printf("%d ", p->info);
         p = p->prox;
- 
     }
 }
 
